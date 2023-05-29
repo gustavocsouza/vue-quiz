@@ -1,14 +1,6 @@
 # QuizApp
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+O projeto em Vue.js é um Quiz com perguntas que explora o uso do vue-router para a navegação entre telas e o componente Transition/TransitionGroup para adicionar animações e transições suaves durante a interação do usuário.
 
 ## Project Setup
 
@@ -20,10 +12,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
